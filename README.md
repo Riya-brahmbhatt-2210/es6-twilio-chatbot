@@ -1,21 +1,26 @@
+# Chatbot for making Haunted house simulations
+
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+Name : Riya Brahmbhatt
+Student Number : 8688417
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+**About Application:
 
 A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
 
-Marking
------
+**Steps to Operate on The application
 
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
+you enter the Greeting Message into the application and it reponds by asking you "if you want to wait or go to the spooky mension?"
+after that when you reply it will ask you series of other questions for the haunted house simulations.
 
+**How to Build and Run the Project
 
+clone it in your VS Code and run it by inputting following commands in terminal.
+-> npm i .
+-> npm start
 
+open it in localhost and you have your project up and running on the server.
 
+I have also deployed this on Heroku. If you want to see the live version click on following link.
+https://chat-bot8417.herokuapp.com/
